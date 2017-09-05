@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Bef is a responsive jekyll theme
 
-You can use the [editor on GitHub](https://github.com/yungbyun/yungbyun.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Bef - Blog Enjoy Freedom is a responsive jekyll theme which created to be simple and freedom.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Demo
 
-### Markdown
+Check the theme in action [Demo](https://artemsheludko.github.io/bef/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The main page would look like this:
 
-```markdown
-Syntax highlighted code block
+![Main page preview](https://github.com/artemsheludko/bef/blob/master/assets/img/bef_main_page.jpg?raw=true)
 
-# Header 1
-## Header 2
-### Header 3
+The post page would look like this:
 
-- Bulleted
-- List
+![Post page preview](https://github.com/artemsheludko/bef/blob/master/assets/img/bef_post.jpg?raw=true)
 
-1. Numbered
-2. List
+## Features
 
-**Bold** and _Italic_ and `Code` text
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](http://fontawesome.io/)
+- [Vide](http://vodkabears.github.io/vide/)
+- [Disqus](https://disqus.com/)
+- [MailChimp](https://mailchimp.com/)
+- [Formspree!](https://formspree.io/)
+- [Analytics](https://analytics.google.com/analytics/web/)
+- Share Buttons, Recent Post, Section Author, Contact and more...
 
-[Link](url) and ![Image](src)
-```
+## Installation:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
 
-### Jekyll Themes
+### License
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yungbyun/yungbyun.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+GNU General Public License v3.0
